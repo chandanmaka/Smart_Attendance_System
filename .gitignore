@@ -1,0 +1,6 @@
+# we ignore files that are not required to push in git through this file
+
+venv
+__pycache__
+data/*
+classifier.xml
