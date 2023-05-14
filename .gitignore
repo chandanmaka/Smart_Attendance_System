@@ -1,7 +1,7 @@
 # we ignore files that are not required to push in git through this file
 
 venv
-timesheet.txt__pycache__
+__pycache__
 classifier.xml
 # Ignore all files in the temp folder
 data/*
